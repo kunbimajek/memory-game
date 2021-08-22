@@ -239,6 +239,7 @@ h1
     border-radius: 5px
     padding: 10px 20px
     font-weight: 700
+    font-size: 15px
     color: #313131
     cursor: pointer
     margin-bottom: 15px
@@ -256,7 +257,6 @@ h1
     max-width: 33.333333%
   .scores 
     p
-      // border-radius: 0
       span
         display: block
         width: max-content

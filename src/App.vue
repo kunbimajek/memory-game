@@ -233,11 +233,12 @@ h1
     color: white
     font-weight: 500
     font-size: 18px
+    margin-bottom: 10px
   .reset-btn
     background-color: #F7B801
     border: 0
     border-radius: 5px
-    padding: 10px 20px
+    padding: 8px 20px
     font-weight: 700
     font-size: 15px
     color: #313131
